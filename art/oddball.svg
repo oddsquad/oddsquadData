@@ -2,7 +2,7 @@
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
 		<g id="spike">
-			<path d="M -15 0 l 15 -45 l 15 45 z" fill="white" stroke="black" />
+			<path d="M -15 0 l 15 -45 l 15 45 z" fill="blue" stroke="black" />
 		</g>
 	</defs>
 
@@ -25,7 +25,7 @@
 	<use xlink:href="#spike" transform="translate(50,50) rotate(320,0,0)" />
 	<use xlink:href="#spike" transform="translate(50,50) rotate(340,0,0)" />
 
-	<circle cx="50" cy="50" r="30" fill="white" stroke="black" />
+	<circle cx="50" cy="50" r="30" fill="gray" stroke="black" />
 
 	<!-- Eyes -->
 	<circle cx="35" cy="45" r="10" fill="white" stroke="black" />
