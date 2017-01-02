@@ -11,7 +11,7 @@
 	<use xlink:href="#leaf" transform="translate(30 20) rotate(-45 0 0)" />
 	<use xlink:href="#leaf" transform="translate(70 20) rotate(45 0 0)" />
 
-	<path d="M 30 20 L 70 20 l 0 20 l 20 0 l 0 20 l -20 0 l 0 20 l -40 0 l 0 -20 l -20 0 l 0 -20 l 20 0 z" fill="white" stroke="black"/>
+	<path d="M 30 20 L 70 20 l 0 20 l 20 0 l 0 20 l -20 0 l 0 20 l -40 0 l 0 -20 l -20 0 l 0 -20 l 20 0 z" fill="red" stroke="black"/>
 
 	<!-- Eyes -->
 	<circle cx="40" cy="30" r="6" fill="white" stroke="black" />
@@ -20,6 +20,8 @@
 	<circle cx="60" cy="30" r="2" fill="black" />
 	
 	<!-- Legs -->
-	<path d="M 30 80 l 20 0 l 0 60 l -40 0 l 0 -20 l 20 0 l 0 -40" fill="white" stroke="black" />
-	<path d="M 70 80 l -20 0 l 0 60 l 40 0 l 0 -20 l -20 0 l 0 -40" fill="white" stroke="black" />
+	<g fill="blue">
+		<path d="M 30 80 l 20 0 l 0 60 l -40 0 l 0 -20 l 20 0 l 0 -40" stroke="black" />
+		<path d="M 70 80 l -20 0 l 0 60 l 40 0 l 0 -20 l -20 0 l 0 -40" stroke="black" />
+	</g>
 </svg>
