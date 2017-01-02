@@ -21,7 +21,7 @@
 	
 	<!-- Legs -->
 	<g fill="blue">
-		<path d="M 30 80 l 20 0 l 0 60 l -40 0 l 0 -20 l 20 0 l 0 -40" stroke="black" />
-		<path d="M 70 80 l -20 0 l 0 60 l 40 0 l 0 -20 l -20 0 l 0 -40" stroke="black" />
+		<path d="M 30 80 l 20 0 l 0 40 l -40 0 l 0 -20 l 20 0 l 0 -20" stroke="black" />
+		<path d="M 70 80 l -20 0 l 0 40 l 40 0 l 0 -20 l -20 0 l 0 -20" stroke="black" />
 	</g>
 </svg>
