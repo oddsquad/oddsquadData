@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<path d="M 30 50 l 0 -20 l -30 30 l 20 0 q 40 30 80 20 q 40 -20 10 -30 q -40 20 -80 0" fill="white" stroke="black" />
+	<circle cx="110" cy="55" r="2" />
+	<path d="M 115 70 l -5 -5 l 12 -2" fill="none" stroke="black"/>
+</svg>
