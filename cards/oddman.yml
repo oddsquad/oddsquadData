@@ -1,0 +1,9 @@
+Name: Oddman
+Attack:
+- Base: normal
+  Damage: 1
+  Guys: 1
+  Enchantment:
+    Type: delayedbonusdamage
+    Amount: 2
+Health: 5
