@@ -1,0 +1,7 @@
+Name: 
+Attack:
+- Base: normal
+  Damage: 2
+  Guys: 1
+Health: 5
+Ability: weakershield
