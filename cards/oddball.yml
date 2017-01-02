@@ -1,0 +1,6 @@
+Name:Oddball
+Attack:
+- Base: normal
+  Damage: 1
+  Guys: 2
+Health: 5
