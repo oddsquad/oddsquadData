@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
 		<g id="spike">
 			<path d="M -15 0 l 15 -45 l 15 45 z" fill="gray" stroke="black" />
