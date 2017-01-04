@@ -3,5 +3,8 @@
     "async": "^2.1.4",
     "mocha": "^3.2.0",
     "yamljs": "^0.2.8"
+  },
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
   }
 }
