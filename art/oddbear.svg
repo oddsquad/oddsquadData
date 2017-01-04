@@ -6,14 +6,16 @@
 			<line x1="0" y1="2" x2="0" y2="-8" stroke="black" />
 		</g>
 	</defs>
-	<use xlink:href="#leaf" x="50" y="27" />
-	<use xlink:href="#leaf" transform="translate(30 27) rotate(-45 0 0)" />
-	<use xlink:href="#leaf" transform="translate(70 27) rotate(45 0 0)" />
+	<use xlink:href="#leaf" x="50" y="22" />
+	<use xlink:href="#leaf" transform="translate(30 22) rotate(-45 0 0)" />
+	<use xlink:href="#leaf" transform="translate(70 22) rotate(45 0 0)" />
 
-	<rect x="0" y="75" width="100" height="20" fill="white" stroke="black" rx="15" />
-	<path d="M 30 70 q -15 -5 -10 -20 q -15 -8 0 -16 q 30 -25 60 0 q 15 8 0 16 q 5 15 -10 20 q 20 30 0 50 l 10 10 q 0 10 -10 10 l -10 -10 q -10 5 -20 0 l -10 10 q -10 0 -10 -10 l 10 -10 q -20 -20 0 -50" fill="white" stroke="black" />
-	<circle cx="40" cy="40" r="8" fill="white" stroke="black" />
-	<circle cx="60" cy="40" r="8" fill="white" stroke="black" />
-	<circle cx="40" cy="36" r="4" fill="black" />
-	<circle cx="60" cy="36" r="4" fill="black" />
+	<g fill="saddlebrown">
+		<rect x="0" y="70" width="100" height="20" stroke="black" rx="15" />
+		<path d="M 30 65 q -15 -5 -10 -20 q -15 -8 0 -16 q 30 -25 60 0 q 15 8 0 16 q 5 15 -10 20 q 20 30 0 50 l 10 10 q 0 10 -10 10 l -10 -10 q -10 5 -20 0 l -10 10 q -10 0 -10 -10 l 10 -10 q -20 -20 0 -50" stroke="black" />
+	</g>
+	<circle cx="40" cy="35" r="8" fill="white" stroke="black" />
+	<circle cx="60" cy="35" r="8" fill="white" stroke="black" />
+	<circle cx="40" cy="35" r="4" fill="black" />
+	<circle cx="60" cy="35" r="4" fill="black" />
 </svg>
