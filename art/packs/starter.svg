@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<svg viewBox="0 0 100 150" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<rect x="5" y="5" width="90" height="140" rx="10" fill="white" stroke="black" />
+	<line x1="5" y1="25" x2="95" y2="25" stroke="black" />
+	<image width="70" height="70" x="15" y="40" xlink:href="../oddel.svg" />
+</svg>
