@@ -11,7 +11,7 @@
 	<use xlink:href="#leaf" transform="translate(30 5) rotate(-45 0 0)" />
 	<use xlink:href="#leaf" transform="translate(70 5) rotate(45 0 0)" />
 
-	<path d="M 40 55 c -40 0 -40 -50 0 -50 l 20 0 c 40 0 40 50 0 50 q 30 10 30 40 l 40 0 c 10 0 10 10 0 10 c 5 0 5 5 0 5 l -40 0 q 0 30 -30 40 l 20 30 c 15 -5 20 10 0 15 c -15 5 -20 -10 -15 -10 l -15 -30 l -15 30 c 5 0 0 15 -15 10 c -20 -5 -15 -20 0 -15 l 20 -30 q -30 -10 -30 -40 l -40 0 c -5 0 -5 -5 0 -5 c -10 0 -10 -10 0 -10 l 40 0 q 5 -30 30 -40" stroke="black" fill="white" />
+	<path d="M 40 55 c -40 0 -40 -50 0 -50 l 20 0 c 40 0 40 50 0 50 q 30 10 30 30 l 40 0 c 10 0 10 10 0 10 c 5 0 5 5 0 5 l -40 0 q 0 30 -30 45 l 20 30 c 15 -5 20 10 0 15 c -15 5 -20 -10 -15 -10 l -15 -30 l -15 30 c 5 0 0 15 -15 10 c -20 -5 -15 -20 0 -15 l 20 -30 q -30 -10 -30 -45 l -40 0 c -5 0 -5 -5 0 -5 c -10 0 -10 -10 0 -10 l 40 0 q 5 -25 30 -30" stroke="black" fill="white" />
 	<circle cx="35" cy="25" r="10" fill="white" stroke="black" />
 	<circle cx="65" cy="25" r="10" fill="white" stroke="black" />
 	<circle cx="35" cy="25" r="5" fill="black" />
