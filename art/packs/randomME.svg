@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg viewBox="0 0 100 150" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<g id="rect">
+			<rect x="0" y="0" width="90" height="140" rx="10" fill="white" stroke="black" />
+		</g>
+	</defs>
+	<use xlink:href="#rect" x="7.1" y="7.1" />
+	<use xlink:href="#rect" x="6.4" y="6.4" />
+	<use xlink:href="#rect" x="5.7" y="5.7" />
+	<use xlink:href="#rect" x="5" y="5" />
+	<line x1="5" y1="25" x2="95" y2="25" stroke="black" />
+	<image width="70" height="70" x="15" y="40" xlink:href="../oddball.svg" />
+</svg>
