@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<svg viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+	<path d="M 30 30 l 0 -20 q 5 -15 10 0 l 0 20 l 30 0 q 15 5 0 10 l -30 0 l 0 20 q -5 15 -10 0 l 0 -20 l -20 0 q -1 8 -5 10 l 0 -30 q 5 4 5 10 l 20 0 z" fill="white" stroke="black" />
+</svg>
